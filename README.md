@@ -1,4 +1,5 @@
-# Sonic Robo Blast 2
+# Sonic Robo Blast 2, the stinky version
+nothing new to 2.2backported, yet...
 
 [![Build status](https://ci.appveyor.com/api/projects/status/399d4hcw9yy7hg2y?svg=true)](https://ci.appveyor.com/project/STJr/srb2)
 [![Build status](https://travis-ci.org/STJr/SRB2.svg?branch=master)](https://travis-ci.org/STJr/SRB2)
