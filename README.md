@@ -1,5 +1,5 @@
-# Sonic Robo Blast 2, the stinky version
-nothing new to 2.2backported, yet...
+Soniccnic Robo Blast 2, the stinky version
+so fuck apple for being so bad when it comes to compiling because i cant even compile vanilla 2.1 without it telling me SDL is missing even tho it isnt, ill come back to this project once i figure out why its doing this
 
 [![Build status](https://ci.appveyor.com/api/projects/status/399d4hcw9yy7hg2y?svg=true)](https://ci.appveyor.com/project/STJr/srb2)
 [![Build status](https://travis-ci.org/STJr/SRB2.svg?branch=master)](https://travis-ci.org/STJr/SRB2)
